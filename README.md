@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AceSkyes;
-- 👀 I’m interested in Back-End, specially PHP and Python;
-- 🌱 I’m currently learning Python;
+- 👀 I’m interested in Back-End, specially PHP and Java;
+- 🌱 I’m currently learning Java;
 - 💞️ I’m looking to collaborate on any enterprise;
-- 📫 How to reach me ...
+- 📫 guilhermesb.profissional@gmail.com
 
 <!---
 AceSkyes/AceSkyes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
