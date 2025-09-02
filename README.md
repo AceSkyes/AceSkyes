@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AceSkyes;
-- 👀 I’m interested in Back-End, specially PHP and Java;
-- 🌱 I’m currently learning Java;
-- 💞️ I’m looking to collaborate on any enterprise;
-- 📫 guilhermesb.profissional@gmail.com
+- 👋 Olá, meu nome é Guilherme Soares, e esse é o meu repositório para projetos acadêmicos e profissionais!
+- 👀 Gosto 
+- 🌱 Atualmente busco aprender C# e Java;
+- 💞️ Estou procurando oportunidades de emprego! Tenho interesse em atuar tanto como CLT quanto PJ.
+- 📫 meu e-mail para trabalho: guilhermesb.profissional@gmail.com
 
 <!---
 AceSkyes/AceSkyes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
