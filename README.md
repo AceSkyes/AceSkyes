@@ -5,14 +5,14 @@ Meu nome é Guilherme Soares Brando. Sou um desenvolvedor de software atualmente
 ## Formação Acadêmica
 
 * Técnico em informática para a internet - Instituição ETEC Praia Grande Extensão Balneário Maracanã;
-* Graduado <sup>Esperando a emissão do diploma kkkkk</sup> em Análise e Desenvolvimento de Sistemas.
+* Graduado <sup>Esperando a emissão do diploma kkkkk</sup> em Análise e Desenvolvimento de Sistemas - Instituição FATEC Praia Grande.
 
 ## Conhecimentos Tecnológicos
 
-*Desenvolvimento Front-End: HTML, CSS, JavaScript, Alpine.JS;
-*Desenvolvimento Back-End: C++ básico, PHP;
-*Gerenciamento de Banco de Dados: MySQL, OracleDB;
-*Versionamento de Projetos: Github Desktop.
+* Desenvolvimento Front-End: HTML, CSS, JavaScript, Alpine.JS;
+* Desenvolvimento Back-End: C++ básico, PHP;
+* Gerenciamento de Banco de Dados: MySQL, OracleDB;
+* Versionamento de Projetos: Github Desktop.
 
 ## Estou Aprendendo 
 
