@@ -5,7 +5,7 @@ Meu nome é Guilherme Soares Brando. Sou um desenvolvedor de software atualmente
 ## Formação Acadêmica
 
 * Técnico em informática para a internet - Instituição ETEC Praia Grande Extensão Balneário Maracanã;
-* Graduado <sup>Esperando a emissão do diploma kkkkk<sup> em Análise e Desenvolvimento de Sistemas.
+* Graduado <sup>Esperando a emissão do diploma kkkkk</sup> em Análise e Desenvolvimento de Sistemas.
 
 ## Conhecimentos Tecnológicos
 
